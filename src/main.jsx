@@ -5,8 +5,6 @@ import "./styles.css";
 
 import Tanjore from "./assets/Tnajore.jpg";
 import mboard from "./assets/muck-board.jpg";
-import chess from "./assets/miko-chess-board.jpg";
-import charger from "./assets/automatic-charger-ejector.jpg";
 
 const products = [
   {
