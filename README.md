@@ -1,6 +1,4 @@
-# Guna Tech clone
-
-React/Vite implementation based on the supplied Guna Tech screenshot.
+React/Vite implementation.
 
 ## Product links
 
